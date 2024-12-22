@@ -1,0 +1,14 @@
+###### Requirements with Version Specifiers ######
+requests ~= 2.32
+pymongo
+pyfaktory
+pandas
+matplotlib
+TextBlob
+datetime
+logging
+psycopg2-binary ~= 2.9
+python-dotenv ~= 1.0
+textblob
+fastapi
+uvicorn

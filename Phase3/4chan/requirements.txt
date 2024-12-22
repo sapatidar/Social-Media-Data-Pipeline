@@ -1,0 +1,14 @@
+###### Requirements with Version Specifiers ######
+pyfaktory
+python-dotenv ~= 1.0
+pymongo
+requests ~= 2.32
+pandas
+matplotlib
+seaborn
+datetime
+logging
+psycopg2-binary ~= 2.9
+textblob
+fastapi
+uvicorn
